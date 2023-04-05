@@ -7,7 +7,7 @@ import {
   FaCss3Alt,
   FaJs,
   FaNode,
-  FaReact,
+  FaReact
 } from "react-icons/fa";
 
 export const stackData = [
