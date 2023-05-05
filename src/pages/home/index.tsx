@@ -58,7 +58,10 @@ export const Home = (): JSX.Element => {
               with projects and tecnologies
             </Text>
             <Text type="body1" color="grey2">
-              This place is for showing my projects and known tecnologies, and of course, ease the contact with me!
+              I've been studying coding and programming for a year and a half, and now i'm in an RPA (Robotic Process Automation) course to learn how this process works and how to use UI Path (An low code plataform) to develop them.
+              <br/>
+              <br/>
+              Bellow you can check my projects and known tecnologies, and of course, ease the contact with me!
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
