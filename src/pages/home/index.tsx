@@ -47,21 +47,24 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Hello, my name is {userData.nameUser}!</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            And{" "}
+              And{" "}
               <Text as="span" type="heading1" color="brand1">
                 here
               </Text>{" "}
-              is my {" "}
+              is my{" "}
               <Text as="span" type="heading1" color="brand1">
-              portfolio
+                portfolio
               </Text>{" "}
               with projects and tecnologies
             </Text>
             <Text type="body1" color="grey2">
-              I've been studying coding and programming for a year and a half, and now i'm in an RPA (Robotic Process Automation) course to learn how this process works and how to use UI Path (An low code plataform) to develop them.
-              <br/>
-              <br/>
-              Bellow you can check my projects and known tecnologies, and of course, ease the contact with me!
+              I've been studying coding and programming for almost two years,
+              and now i'm studying Systems Analysis and Development at
+              Unicesumar.
+              <br />
+              <br />
+              Bellow you can check my projects and known tecnologies, and of
+              course, ease the contact with me!
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
